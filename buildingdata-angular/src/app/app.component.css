@@ -1,0 +1,10 @@
+.container_width{
+    width: 100% !important;
+}
+.color{
+    height: 100vh;
+    background-color: #F4F4F4;
+}
+.row_margin{
+    margin-top: 50px;
+}

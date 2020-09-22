@@ -1,0 +1,61 @@
+<div class="color">
+<div class="container container_width">
+  <div class="row row_margin"> 
+      <div class="col-md-3">
+          <select class="form-control lg" style="height: 54px;" #building>
+            <option value="0">Select Building</option>
+            <option [value]="data.id" *ngFor="let data of buildingData">{{data.name}}</option>
+            
+          </select>
+      </div>
+      <div class="col-md-3">
+        <select class="form-control lg" style="height: 54px;" #object>
+          <option value="0">Select Object</option>
+          <option [value]="data.id" *ngFor="let data of objectData">{{data.name}}</option>
+        </select>
+      </div>
+      <div class="col-md-2">
+        <select class="form-control lg" style="height: 54px;" #datafield>
+          <option value="0">Select DataField</option>
+          <option [value]="data.id" *ngFor="let data of dataFieldData">{{data.name}}</option>
+        </select>
+      </div>   
+      <div class="col-md-3">
+        <div class="mat-app-background basic-container" style="width: 82%; height: 50px;">
+          <mat-form-field appearance="fill">
+            <mat-label>Enter a date range</mat-label>
+            <mat-date-range-input [rangePicker]="picker">
+              <input matStartDate placeholder="Start date" #startdate>
+              <input matEndDate placeholder="End date" #enddate>
+            </mat-date-range-input>
+            <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+            <mat-date-range-picker #picker></mat-date-range-picker>
+          </mat-form-field>
+        </div>
+  
+      </div>
+      <div class="col-md-1">
+          <button class="btn btn-primary" style="margin-top: 10px;"
+          (click)="onSearchClick(building.value, object.value, datafield.value, startdate.value, enddate.value)"
+          >Search</button>
+      </div>
+  </div>
+  <div class="row" style="margin-top: 70px;">
+    <div class="col-md-12">
+      <apx-chart
+      [series]="series"
+      [chart]="chart"
+      [dataLabels]="dataLabels"
+      [markers]="markers"
+      [title]="title"
+      [fill]="fill"
+      [yaxis]="yaxis"
+      [xaxis]="xaxis"
+      [tooltip]="tooltip"
+      [autoUpdateSeries]="true"
+    ></apx-chart>
+    </div>
+  </div>
+
+</div>
+</div>

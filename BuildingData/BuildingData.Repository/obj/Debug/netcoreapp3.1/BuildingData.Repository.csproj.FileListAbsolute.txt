@@ -1,0 +1,13 @@
+H:\S3 Innovate\BuildingData\BuildingData.Repository\bin\Debug\netcoreapp3.1\BuildingData.Repository.deps.json
+H:\S3 Innovate\BuildingData\BuildingData.Repository\bin\Debug\netcoreapp3.1\BuildingData.Repository.dll
+H:\S3 Innovate\BuildingData\BuildingData.Repository\obj\Debug\netcoreapp3.1\BuildingData.Repository.csprojAssemblyReference.cache
+H:\S3 Innovate\BuildingData\BuildingData.Repository\obj\Debug\netcoreapp3.1\BuildingData.Repository.AssemblyInfoInputs.cache
+H:\S3 Innovate\BuildingData\BuildingData.Repository\obj\Debug\netcoreapp3.1\BuildingData.Repository.AssemblyInfo.cs
+H:\S3 Innovate\BuildingData\BuildingData.Repository\bin\Debug\netcoreapp3.1\BuildingData.Repository.runtimeconfig.json
+H:\S3 Innovate\BuildingData\BuildingData.Repository\bin\Debug\netcoreapp3.1\BuildingData.Repository.runtimeconfig.dev.json
+H:\S3 Innovate\BuildingData\BuildingData.Repository\bin\Debug\netcoreapp3.1\BuildingData.Repository.pdb
+H:\S3 Innovate\BuildingData\BuildingData.Repository\bin\Debug\netcoreapp3.1\BuildingData.Model.dll
+H:\S3 Innovate\BuildingData\BuildingData.Repository\bin\Debug\netcoreapp3.1\BuildingData.Model.pdb
+H:\S3 Innovate\BuildingData\BuildingData.Repository\obj\Debug\netcoreapp3.1\BuildingData.Repository.csproj.CopyComplete
+H:\S3 Innovate\BuildingData\BuildingData.Repository\obj\Debug\netcoreapp3.1\BuildingData.Repository.dll
+H:\S3 Innovate\BuildingData\BuildingData.Repository\obj\Debug\netcoreapp3.1\BuildingData.Repository.pdb

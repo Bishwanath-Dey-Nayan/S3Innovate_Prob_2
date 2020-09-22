@@ -1,0 +1,8 @@
+H:\S3 Innovate\BuildingData\BuildingData.Model\bin\Debug\netcoreapp3.1\BuildingData.Model.deps.json
+H:\S3 Innovate\BuildingData\BuildingData.Model\bin\Debug\netcoreapp3.1\BuildingData.Model.dll
+H:\S3 Innovate\BuildingData\BuildingData.Model\bin\Debug\netcoreapp3.1\BuildingData.Model.pdb
+H:\S3 Innovate\BuildingData\BuildingData.Model\obj\Debug\netcoreapp3.1\BuildingData.Model.csprojAssemblyReference.cache
+H:\S3 Innovate\BuildingData\BuildingData.Model\obj\Debug\netcoreapp3.1\BuildingData.Model.AssemblyInfoInputs.cache
+H:\S3 Innovate\BuildingData\BuildingData.Model\obj\Debug\netcoreapp3.1\BuildingData.Model.AssemblyInfo.cs
+H:\S3 Innovate\BuildingData\BuildingData.Model\obj\Debug\netcoreapp3.1\BuildingData.Model.dll
+H:\S3 Innovate\BuildingData\BuildingData.Model\obj\Debug\netcoreapp3.1\BuildingData.Model.pdb

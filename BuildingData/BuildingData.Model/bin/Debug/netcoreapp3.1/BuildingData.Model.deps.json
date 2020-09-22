@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BuildingData.Model/1.0.0": {
+        "dependencies": {
+          "DataAnnotationsValidator": "2.2.0"
+        },
+        "runtime": {
+          "BuildingData.Model.dll": {}
+        }
+      },
+      "DataAnnotationsValidator/2.2.0": {
+        "runtime": {
+          "lib/net471/DataAnnotationsValidator.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuildingData.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAnnotationsValidator/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BGN0IwQw4ULpwMVx9Eizns3AZHaLBybgxKQWgzP6assyC02HHUYXJ3S4xKBq0so3MZ3v4ThNjcALQEl0KCrflg==",
+      "path": "dataannotationsvalidator/2.2.0",
+      "hashPath": "dataannotationsvalidator.2.2.0.nupkg.sha512"
+    }
+  }
+}
